@@ -1,2 +1,3 @@
 # MECH-501
-Class project: texture classification with acoustic sensing
+
+**Class Project**: texture classification using microphone data gathered from a robotic hand manipulating different objects
